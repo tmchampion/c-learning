@@ -1,6 +1,6 @@
 /*
 	01 - VARIABLES
-	I learnt the main variables in C and how to show them in my terminal
+	I learned the main variables in C and how to show them in my terminal
 */
 
 #include <stdio.h>
